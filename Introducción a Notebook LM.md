@@ -46,8 +46,13 @@ ________________________________________________________________________________
 TEMA PARA ENSEÑAR: "Uso de la AI para estudio e investigacion"
 NOMBRE DEL CURSO: "Introduccion a NotebookLM"
 ACTIVIDADES:
+
 1)_ Ingresa a la pagina: https://notebooklm.google.com
+
+
 2)_ Describe los elementos que como estudiantes te sean de referencia: barras, menus, etc.
+
+
 3)_ Introduce una fuente en formato PDF, ingresando a la seccion "Fuentes"
 
 
