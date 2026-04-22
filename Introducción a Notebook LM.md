@@ -44,7 +44,11 @@ Tres métricas destacadas con íconos en color naranja:
 🌐 Globo	234+	  Países
 _________________________________________________________________________________________________________________________________________________________________________
 TEMA PARA ENSEÑAR: "Uso de la AI para estudio e investigacion"
+
+
 NOMBRE DEL CURSO: "Introduccion a NotebookLM"
+
+
 ACTIVIDADES:
 
 1)_ Ingresa a la pagina: https://notebooklm.google.com
