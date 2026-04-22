@@ -35,9 +35,19 @@ Subtítulo/descripción en gris: "El sitio para obtener apoyo, hacer preguntas y
 Botón CTA con borde redondeado y texto: "Involúcrese →"
 Columna derecha (imagen):
 Fotografía de una gran multitud de personas reunidas en un espacio tipo auditorio o sala de convenciones, con estructura de varios niveles. La imagen está recortada en forma de semicírculo con un marco decorativo en color naranja.
+
 Barra de estadísticas (inferior derecha)
 Tres métricas destacadas con íconos en color naranja:
 Ícono	Valor	Descripción
 📚 Libro	55,140,119+	  Cursos
 📋 Documento	146,759+	  Sitios Web
 🌐 Globo	234+	  Países
+_________________________________________________________________________________________________________________________________________________________________________
+TEMA PARA ENSEÑAR: "Uso de la AI para estudio e investigacion"
+NOMBRE DEL CURSO: "Introduccion a NotebookLM"
+ACTIVIDADES:
+1)_ Ingresa a la pagina: https://notebooklm.google.com
+2)_ Describe los elementos que como estudiantes te sean de referencia: barras, menus, etc.
+3)_ Introduce una fuente en formato PDF, ingresando a la seccion "Fuentes"
+
+
